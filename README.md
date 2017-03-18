@@ -2,13 +2,13 @@ OSE Secure plugin provides the most basic protection to a website.
 It supports Joomla! versions including Joomla!1.5, 2.5 and 3.x.
 
 ###Please download it here:
-[Download OSE Secure Plugin](https://cdn.protect-website.co/centrora_web/images/Community/OSE%20Secure%20Plugin/2017-03-17_15-55-40.png)
+[Download OSE Secure Plugin](https://github.com/ShawnOSE/OSE-Secure-Plugin/archive/master.zip)
 
 ###Installation 
 After the download, please extract the package on your local first. Then you can find the proper version to install on your website for Joomla! 1.5, or Joomla! 2.5.-3.x. Install it from Joomla! Extensions --> Install.
 
 ###Configuration
-<img src="/uploads/default/original/1X/a4153b4ebbfdbaf233cc3ad50cb7b154dcd7b9d6.png" width="625" height="500">
+<img src="https://cdn.protect-website.co/centrora_web/images/Community/OSE%20Secure%20Plugin/2017-03-17_15-55-40.png" width="750">
 
 1. After the installation, please enable the plugin "System - OSE Secure" and also enable the parameter "Basic Feature - Enable OSE Backend Secure Key" to activate the functions.
 
